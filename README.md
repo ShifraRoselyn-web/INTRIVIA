@@ -14,3 +14,8 @@ baru sebagai mahasiswa baru. Semoga ke depannya makin seru.
 ## Kesan Pesan Cluster 1 Sejauh Ini
 
 Anggota clusternya asik dan saling bantu. Semoga bisa makin kompak.
+
+## Harapan Kuliah
+
+Harapan saya, semoga kuliah ini lancar sampai lulus, ilmu yang
+didapat bisa dipakai, dan saya bisa berkembang di bidang informatika.
