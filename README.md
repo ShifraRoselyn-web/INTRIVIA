@@ -11,6 +11,6 @@
 Seru karena bisa kenal teman-teman baru dan dapat banyak pengalaman
 baru sebagai mahasiswa baru. Semoga ke depannya makin seru.
 
-## Kesan Pesan Cluster (nomor) Sejauh Ini
+## Kesan Pesan Cluster 1 Sejauh Ini
 
 Anggota clusternya asik dan saling bantu. Semoga bisa makin kompak.
