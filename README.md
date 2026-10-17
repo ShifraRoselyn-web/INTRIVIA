@@ -4,7 +4,7 @@
 
 | Nama Lengkap | NIM | Program Studi | Cluster |
 |--------------|-----|---------------|---------|
-| Shifra Roselyn | 265150207111048 | Teknik Informatika | (Cluster 1) |
+| Shifra Roselyn Neysafian Suseno | 265150207111048 | Teknik Informatika | (Cluster 1) |
 
 ## Kesan Pesan INTRIVIA Sejauh Ini
 
